@@ -20,16 +20,16 @@ const Banner = () => {
             Aliquid, quia facere corrupti tempora debitis quis veritatis voluptate optio, cum aliquam tenetur cumque nihil.
           </p>
           <div className="icon-container flex space-x-6">
-            <a className="bg-black hover:bg-white cursor-pointer p-2 w-10 h-10 rounded-full flex items-center justify-center" href="#">
+            <a className="bg-black hover:bg-white cursor-pointer p-2 w-10 h-10 rounded-full flex items-center justify-center" href="https://www.linkedin.com/feed/" target="_blank" rel="noopener noreferrer">
               <i className="fa-brands fa-linkedin-in text-white hover:text-black"></i>
             </a> 
-            <a className="bg-black hover:bg-white cursor-pointer p-2 w-10 h-10 rounded-full flex items-center justify-center" href="#">
+            <a className="bg-black hover:bg-white cursor-pointer p-2 w-10 h-10 rounded-full flex items-center justify-center" href="https://x.com/ratnakarspeeks" target="_blank" rel="noopener noreferrer">
               <i className="fa-brands fa-twitter text-white hover:text-black"></i>
             </a>
-            <a className="bg-black hover:bg-white cursor-pointer p-2 w-10 h-10 rounded-full flex items-center justify-center" href="#">
+            <a className="bg-black hover:bg-white cursor-pointer p-2 w-10 h-10 rounded-full flex items-center justify-center" href="https://github.com/ratn7921" target="_blank" rel="noopener noreferrer">
               <i className="fa-brands fa-github text-white hover:text-black"></i>
             </a>
-            <a className="bg-black hover:bg-white cursor-pointer p-2 w-10 h-10 rounded-full flex items-center justify-center" href="#">
+            <a className="bg-black hover:bg-white cursor-pointer p-2 w-10 h-10 rounded-full flex items-center justify-center" href="https://www.instagram.com/ratnakar_14?igsh=MXU0MTQ2MHU2NWcyZA==" target="_blank" rel="noopener noreferrer">
               <i className="fa-brands fa-instagram text-white hover:text-black"></i>
             </a>
           </div>
