@@ -1,5 +1,5 @@
 import bannerImage from '../assets/6644b34c91f57f8d40a4eaa94e3cb797 - Copy.png';
-import bannerBackground from '../assets/pattern-background-mobile.svg';
+import bannerBackground from '../assets/Screenshot 2024-08-13 183450.png';
 
 const Banner = () => {
   return (
