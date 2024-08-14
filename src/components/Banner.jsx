@@ -55,7 +55,7 @@ const Banner = () => {
           </div>
           <a 
             className="mt-6 inline-block shadow-lg rounded-full bg-yellow-300 px-5 py-3 text-black font-semibold" 
-            href="/contact"
+            href="www.ratnayadav9171@gmail.com"
           >
             Contact me
           </a>
