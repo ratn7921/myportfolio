@@ -20,13 +20,13 @@ const Banner=()=>{
      cum aliquam tenetur cumque nihil.
 </p>
 <div className="icon-container    space-x-6">
-    <a className="bg-black hover:bg-white   cursor-pointer px-4 py-2 w-6 h-6 rounded-full " href="#"><i class="fa-brands hover:text-black text-white fa-linkedin-in"></i>
+    <a className="bg-black hover:bg-white   cursor-pointer px-4 py-2 w-6 h-6 rounded-full " href="https://www.linkedin.com/feed/"><i class="fa-brands hover:text-black text-white fa-linkedin-in"></i>
     </a> 
-    <a className="bg-black hover:bg-white  cursor-pointer px-4 py-2 w-6 h-6 rounded-full " href="#"><i class="fa-brands hover:text-black text-white fa-twitter"></i>
+    <a className="bg-black hover:bg-white  cursor-pointer px-4 py-2 w-6 h-6 rounded-full " href="https://x.com/ratnakarspeeks"><i class="fa-brands hover:text-black text-white fa-twitter"></i>
     </a>
-    <a className="bg-black hover:bg-white  cursor-pointer px-4 py-2 w-6  h-6 rounded-full " href="#"><i class="fa-brands hover:text-black text-white fa-github"></i>
+    <a className="bg-black hover:bg-white  cursor-pointer px-4 py-2 w-6  h-6 rounded-full " href="https://github.com/ratn7921"><i class="fa-brands hover:text-black text-white fa-github"></i>
     </a>
-<a className="bg-black hover:bg-white  cursor-pointer px-4 py-2 w-6 h-6 rounded-full " href="#"><i class="fa-brands hover:text-black text-white fa-instagram"></i>
+<a className="bg-black hover:bg-white  cursor-pointer px-4 py-2 w-6 h-6 rounded-full " href="https://www.instagram.com/ratnakar_14?igsh=MXU0MTQ2MHU2NWcyZA=="><i class="fa-brands hover:text-black text-white fa-instagram"></i>
 </a>
 </div>
 <br />

@@ -5,30 +5,30 @@ const Header =() =>{
  const[menulinks, setmenulinks]= useState([
     {
     title:"Home",
-    link:"/home",
+    link:"./Banner.jsx",
     id:1,
  },
  {
     title:"About",
-    link:"/About",
+    link:"./About.jsx",
     id:2,
  },
  {
     title:"skills",
-    link:"/skills",
+    link:"./Expertise.jsx",
     id:3,
  },
  {
-    title:"projects",
-    link:"/projects",
+    title:"portfolio",
+    link:"./services.jsx",
     id:4,
     
  },
- {
-    title:"portfolio",
-    link:"/portfolio",
-    id:5,
- },
+//  {
+//     title:"portfolio",
+//     link:"/portfolio",
+//     id:5,
+//  },
  
 ]);
 const [actionButton, setActionButton] = useState({
